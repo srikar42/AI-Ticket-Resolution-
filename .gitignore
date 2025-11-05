@@ -3,6 +3,44 @@ __pycache__/
 *.py[codz]
 *$py.class
 
+# Environment files
+.env
+venv/
+
+# Credentials
+credentials/
+credentials.json
+
+# Logs
+logs/
+*.log
+*.csv
+*.txt
+
+# Data and logs
+data/
+logs/
+
+# Model and embeddings
+models/
+*.pkl
+*.faiss
+
+# data folders
+data/
+datasets/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Streamlit and FastAPI cache
+.streamlit/
+__cache__/
+
+# Python cache
+__pycache__/
+*.pyc
+
 # C extensions
 *.so
 
