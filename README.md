@@ -1,4 +1,3 @@
- README.md
 # AI-Powered Knowledge Engine for Smart Support Ticket Resolution
 
 ### Project Overview
@@ -140,7 +139,7 @@ Use the dashboard to:
 
 
 
-## 🧑‍💻 Contributors
+## Contributors
 - **Emmadi Srikar** — Project Lead & Developer
 
 
