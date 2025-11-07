@@ -1,0 +1,12 @@
+model_name: all-MiniLM-L6-v2
+top_k: 3
+ctr_threshold: 0.5
+coverage_threshold: 0.6
+paths:
+  articles: data/raw/knowledge_base_articles2.csv
+  index: models/article_index.faiss
+  meta: models/articles_meta.pkl
+  logs: logs/
+
+
+
